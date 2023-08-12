@@ -1,6 +1,6 @@
 # Landing-Page
 Simple Landing Page of Starbucks 
 
-Have a look into it using the link below:
+To view this landing page Click the link below:
 
 https://landing-page-for-starbucks.netlify.app/
